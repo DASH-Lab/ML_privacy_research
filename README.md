@@ -14,9 +14,9 @@ Our published papers that related to privacy preserving
 #### Github Link:
 Implementation and research on related papers
 
-'Image generation using Differential Privacy' [[Link](https://github.com/DASH-Lab/PrivacyMethods)]
+`Image generation using Differential Privacy` [[Link](https://github.com/DASH-Lab/PrivacyMethods)]
 
-'Image classification using Differential Privacy' [[Link](https://github.com/DASH-Lab/DP_classification)]
+`Image classification using Differential Privacy` [[Link](https://github.com/DASH-Lab/DP_classification)]
 
 ### Machine Unlearning
 Our published papers that related to machine unlearning
