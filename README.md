@@ -11,6 +11,8 @@ Our published papers that related to privacy preserving
 
 **`2022`**: `PTD: Privacy-Preserving Human Face Processing Framework using Tensor Decomposition` accepted by **ACM-SAC22**. [[paper](https://dl.acm.org/doi/10.1145/3477314.3507036)]
 
+**`2022`**: `STL-DP: Differentially Private Time Series Exploring Decomposition and Compression Methods` accepted by **CIKM22**. [[paper](https://ceur-ws.org/Vol-3318/short5.pdf)]
+
 #### Github Link:
 Implementation and research on related papers
 
