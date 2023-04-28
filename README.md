@@ -5,7 +5,7 @@
 This repository provides a list a list of publications from [DASHLab](https://dash-lab.github.io/) about ML privacy.
 
 ### Privacy preserving
-Our published papers that related to privacy preserving
+Our published papers that related to privacy-preserving
 
 #### Paper List:
 
@@ -21,7 +21,7 @@ Implementation and research on related papers
 `Image classification using Differential Privacy` [[Link](https://github.com/DASH-Lab/DP_classification)]
 
 ### Machine Unlearning
-Our published papers that related to machine unlearning
+Our published papers that related to machine-unlearning
 
 #### Paper List:
 
