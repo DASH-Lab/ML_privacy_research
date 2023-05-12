@@ -30,6 +30,6 @@ Our published papers that related to machine-unlearning
 
 
 
-#### Project Involvement
+#### Project Involvements
 
 **`2022-2026`**. 개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 AI플랫폼 연구 및 개발 (IITP)
