@@ -25,6 +25,8 @@ Our published papers that related to machine-unlearning
 
 #### Paper List:
 
+**`2024`**: `Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation` accepted by **AAAI24**. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30118)]
+
 **`2023`**: `UNDO: Effective and Accurate Unlearning Method for Deep Neural Networks` accepted by **CIKM23**. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615235)]
 
 **`2022`**: `Efficient Two-stage Model Retraining for Machine Unlearning` accepted by **CVPR22**. [[paper](https://ieeexplore.ieee.org/document/9857498)]
