@@ -5,7 +5,7 @@
 This repository provides a list a list of publications from [DASHLab](https://dash-lab.github.io/) about ML privacy.
 
 ### Privacy preserving
-Our published papers that related to privacy-preserving
+Our published papers that related to privacy-preserving.
 
 #### Paper List:
 
@@ -14,7 +14,7 @@ Our published papers that related to privacy-preserving
 **`2022`**: `STL-DP: Differentially Private Time Series Exploring Decomposition and Compression Methods` accepted by **CIKM22**. [[paper](https://ceur-ws.org/Vol-3318/short5.pdf)]
 
 #### Github Link:
-Implementation and research on related papers
+Implementation and research on related papers.
 
 `Image generation using Differential Privacy` [[Link](https://github.com/DASH-Lab/PrivacyMethods)]
 
