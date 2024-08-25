@@ -20,10 +20,14 @@ Implementation and research on related papers
 
 `Image classification using Differential Privacy` [[Link](https://github.com/DASH-Lab/DP_classification)]
 
-### Machine Unlearning
-Our published papers that related to machine-unlearning
+### Machine Unlearning/Generation Suppression
+Our published papers that related to machine-unlearning and generation-suppression.
 
 #### Paper List:
+
+**`2024`**: `Disrupting Diffusion-based Inpainters with Semantic Digression` accepted by **IJCAI24** [[paper](https://www.ijcai.org/proceedings/2024/856)]
+
+**`2024`**: `All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models` accepted by **AAAI24** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30107)]
 
 **`2024`**: `Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation` accepted by **AAAI24**. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30118)]
 
